@@ -1,8 +1,8 @@
 {
   "current": {
-    "logo": "shopify://shop_images/ST_C.svg",
+    "logo": "shopify:\/\/shop_images\/ST_C.svg",
     "logo_width": 300,
-    "favicon": "shopify://shop_images/favicon-32x32.png",
+    "favicon": "shopify:\/\/shop_images\/favicon-32x32.png",
     "type_header_font": "inter_n4",
     "heading_scale": 100,
     "type_body_font": "inter_n4",
@@ -122,14 +122,20 @@
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
-        "settings": { "color_scheme": "scheme-1" }
+        "settings": {
+          "color_scheme": "scheme-1"
+        }
       },
       "main-password-footer": {
         "type": "main-password-footer",
-        "settings": { "color_scheme": "scheme-1" }
+        "settings": {
+          "color_scheme": "scheme-1"
+        }
       }
     },
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -367,14 +373,22 @@
       "sections": {
         "main-password-header": {
           "type": "main-password-header",
-          "settings": { "color_scheme": "scheme-1" }
+          "settings": {
+            "color_scheme": "scheme-1"
+          }
         },
         "main-password-footer": {
           "type": "main-password-footer",
-          "settings": { "color_scheme": "scheme-1" }
+          "settings": {
+            "color_scheme": "scheme-1"
+          }
         }
       }
     }
   },
-  "platform_customizations": { "custom_css": [] }
+  "platform_customizations": {
+    "custom_css": [
+
+    ]
+  }
 }

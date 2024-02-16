@@ -1,1 +1,19 @@
-{"parent":"header-group.json","context":{"market":"ua"},"sections":{}}
+{
+  "parent": "header-group.json",
+  "context": {
+    "market": "ua"
+  },
+  "sections": {
+    "announcement_bar_phk3g3": {
+      "settings": {
+      },
+      "blocks": {
+        "announcement_awxcMa": {
+          "settings": {
+            "text": "Ласкаво просимо до shopthen"
+          }
+        }
+      }
+    }
+  }
+}
