@@ -1,43 +1,50 @@
 {
   "sections": {
-    "image_banner_LJQFrj": {
-      "type": "image-banner",
+    "image_with_text_CiXKT3": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_pJLWA9": {
+        "heading_yfFb7U": {
           "type": "heading",
           "settings": {
-            "heading": "Explore our products on our website.",
-            "heading_size": "h2"
+            "heading": "Explore our store",
+            "heading_size": "h0"
           }
         },
-        "buttons_we6bXW": {
-          "type": "buttons",
+        "text_mNWkKg": {
+          "type": "text",
           "settings": {
-            "button_label_1": "Let's go.",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "shopify:\/\/pages\/about-us",
-            "button_style_secondary_2": false
+            "text": "<p>Explore the latest trends in designer clothing at our reputable clother stores.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_DKe3Gb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Let's go",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_pJLWA9",
-        "buttons_we6bXW"
+        "heading_yfFb7U",
+        "text_mNWkKg",
+        "button_DKe3Gb"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/photo-1507074928371-bb8a24e0cf8c.png",
-        "image_overlay_opacity": 20,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "zoom-in",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-c53d0188-c0d2-45a6-839a-1cc97c8a7f6d",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "17083396204c1ea5e3": {
@@ -47,7 +54,7 @@
           "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/gap-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
           "settings": {
             "bg_color": "transparent",
-            "height": 200
+            "height": 50
           }
         },
         "hura_theme_blocks_faq_block_J3Lc3i": {
@@ -93,7 +100,7 @@
           "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/gap-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
           "settings": {
             "bg_color": "transparent",
-            "height": 200
+            "height": 50
           }
         },
         "hura_theme_blocks_html_block_XMNzYE": {
@@ -114,7 +121,7 @@
     }
   },
   "order": [
-    "image_banner_LJQFrj",
+    "image_with_text_CiXKT3",
     "17083396204c1ea5e3",
     "1708339641487714be"
   ]
