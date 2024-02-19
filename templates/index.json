@@ -2,6 +2,30 @@
   "sections": {
     "image_banner_LJQFrj": {
       "type": "image-banner",
+      "blocks": {
+        "heading_pJLWA9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Explore our products on our website.",
+            "heading_size": "h2"
+          }
+        },
+        "buttons_we6bXW": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "{{ shop.brand.favicon_url }}",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "{{ shop.brand.favicon_url }}",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pJLWA9",
+        "buttons_we6bXW"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/photo-1507074928371-bb8a24e0cf8c.png",
         "image_overlay_opacity": 20,
