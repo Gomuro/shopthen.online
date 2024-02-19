@@ -5,10 +5,11 @@
       "blocks": {
         "hura_theme_blocks_video_background_block_q9YJTr": {
           "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/video-background-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
+          "disabled": true,
           "settings": {
             "video": "shopify:\/\/files\/videos\/pexels-kampus-production-8195527 (2160p).mp4",
             "overlay_color": "#000000",
-            "overlay_opacity": 0.5,
+            "overlay_opacity": 1,
             "heading": "Video background",
             "heading_tag": "h2",
             "heading_color": "#ffffff",
@@ -71,7 +72,6 @@
         "text_mNWkKg",
         "button_DKe3Gb"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/clark-street-mercantile-P3pI6xzovu0-unsplash_1.jpg",
         "height": "medium",
