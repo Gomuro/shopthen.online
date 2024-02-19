@@ -1,5 +1,45 @@
 {
   "sections": {
+    "1708368966caf3c522": {
+      "type": "apps",
+      "blocks": {
+        "hura_theme_blocks_video_background_block_q9YJTr": {
+          "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/video-background-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/pexels-kampus-production-8195527 (2160p).mp4",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0.5,
+            "heading": "Video background",
+            "heading_tag": "h2",
+            "heading_color": "#ffffff",
+            "heading_padding_top": 5,
+            "heading_padding_bottom": 5,
+            "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "subheading_tag": "p",
+            "subheading_color": "#ffffff",
+            "subheading_padding_top": 5,
+            "subheading_padding_bottom": 5,
+            "btn_text": "ENTER",
+            "btn_link": "shopify:\/\/collections\/all",
+            "btn_color": "#ffffff",
+            "btn_bg_color": "#000000",
+            "btn_margin_top": 10,
+            "btn_margin_bottom": 0,
+            "position": "bottom",
+            "align": "left",
+            "padding": 20,
+            "container_color": "#ffffff",
+            "container_opacity": 0.2
+          }
+        }
+      },
+      "block_order": [
+        "hura_theme_blocks_video_background_block_q9YJTr"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "image_with_text_CiXKT3": {
       "type": "image-with-text",
       "blocks": {
@@ -31,6 +71,7 @@
         "text_mNWkKg",
         "button_DKe3Gb"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/clark-street-mercantile-P3pI6xzovu0-unsplash_1.jpg",
         "height": "medium",
@@ -118,11 +159,30 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "17083685920f9cec4b": {
+      "type": "apps",
+      "blocks": {
+        "hura_theme_blocks_tiktok_profile_block_7UwHDj": {
+          "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/tiktok-profile-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
+          "settings": {
+            "username": ""
+          }
+        }
+      },
+      "block_order": [
+        "hura_theme_blocks_tiktok_profile_block_7UwHDj"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
+    "1708368966caf3c522",
     "image_with_text_CiXKT3",
     "17083396204c1ea5e3",
-    "1708339641487714be"
+    "1708339641487714be",
+    "17083685920f9cec4b"
   ]
 }
