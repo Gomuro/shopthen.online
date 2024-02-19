@@ -15,9 +15,83 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "17083396204c1ea5e3": {
+      "type": "apps",
+      "blocks": {
+        "hura_theme_blocks_gap_block_eLtaqr": {
+          "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/gap-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
+          "settings": {
+            "bg_color": "transparent",
+            "height": 200
+          }
+        },
+        "hura_theme_blocks_faq_block_J3Lc3i": {
+          "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/faq-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
+          "settings": {
+            "question_color": "#000000",
+            "answer_color": "#000000",
+            "question_1": "Lorem ipsum dolor sit amet?",
+            "answer_1": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id neque vehicula, bibendum metus eu, molestie urna. Nullam et sapien eget dolor aliquam imperdiet ac mollis dolor. Donec et turpis turpis. Vivamus lorem felis, dignissim ac risus nec, blandit ultrices neque. Fusce id magna nisl. Nunc sit amet auctor felis. In gravida faucibus viverra.<\/p>",
+            "question_2": "Donec varius nulla eget tortor aliquet?",
+            "answer_2": "<p>Donec varius nulla eget tortor aliquet, ac facilisis diam interdum. Quisque in tempus nibh. Sed fringilla id lorem congue eleifend. Cras eu aliquet quam. Aliquam sollicitudin ante id diam varius, vitae tempor nunc lacinia. Praesent sit amet libero non lorem lacinia tincidunt id eget sapien. Donec cursus ex et ante faucibus laoreet. Aenean nec justo enim. Phasellus euismod blandit tellus. Suspendisse consectetur, lectus eget euismod aliquet, tellus urna pellentesque mi, non viverra urna elit iaculis nunc.<\/p>",
+            "question_3": "",
+            "answer_3": "",
+            "question_4": "",
+            "answer_4": "",
+            "question_5": "",
+            "answer_5": "",
+            "question_6": "",
+            "answer_6": "",
+            "question_7": "",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        }
+      },
+      "block_order": [
+        "hura_theme_blocks_gap_block_eLtaqr",
+        "hura_theme_blocks_faq_block_J3Lc3i"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1708339641487714be": {
+      "type": "apps",
+      "blocks": {
+        "hura_theme_blocks_gap_block_kTL3Dg": {
+          "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/gap-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
+          "settings": {
+            "bg_color": "transparent",
+            "height": 200
+          }
+        },
+        "hura_theme_blocks_html_block_XMNzYE": {
+          "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/html-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
+          "settings": {
+            "custom_html": "",
+            "custom_liquid": "<div class=\"contact-info\">\n    <p>Email: <a href=\"mailto:{{ shop.email }}\">{{ shop.email }}<\/a><\/p>\n    <p>Phone: {{ shop.phone }}<\/p>\n<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "hura_theme_blocks_gap_block_kTL3Dg",
+        "hura_theme_blocks_html_block_XMNzYE"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "image_banner_LJQFrj"
+    "image_banner_LJQFrj",
+    "17083396204c1ea5e3",
+    "1708339641487714be"
   ]
 }
