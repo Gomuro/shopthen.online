@@ -13,11 +13,11 @@
         "buttons_we6bXW": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "{{ shop.brand.favicon_url }}",
+            "button_label_1": "Let's go.",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "{{ shop.brand.favicon_url }}",
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/pages\/about-us",
             "button_style_secondary_2": false
           }
         }
