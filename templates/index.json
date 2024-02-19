@@ -32,7 +32,7 @@
         "button_DKe3Gb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/photo-1507074928371-bb8a24e0cf8c.png",
+        "image": "shopify:\/\/shop_images\/clark-street-mercantile-P3pI6xzovu0-unsplash_1.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -53,7 +53,7 @@
         "hura_theme_blocks_gap_block_eLtaqr": {
           "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/gap-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
           "settings": {
-            "bg_color": "transparent",
+            "bg_color": "rgba(0,0,0,0)",
             "height": 50
           }
         },
@@ -99,7 +99,7 @@
         "hura_theme_blocks_gap_block_kTL3Dg": {
           "type": "shopify:\/\/apps\/hura-theme-blocks\/blocks\/gap-block\/5b288e0f-cbe6-47c0-909d-b0904b0ad6dd",
           "settings": {
-            "bg_color": "transparent",
+            "bg_color": "rgba(0,0,0,0)",
             "height": 50
           }
         },
